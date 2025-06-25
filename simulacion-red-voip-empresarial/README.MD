@@ -8,8 +8,6 @@ Este laboratorio simula una red empresarial distribuida en tres sucursales virtu
 
 Familiarizarme con la configuración de voz sobre IP (VoIP), el protocolo de enrutamiento EIGRP y el diseño de topologías escalables dentro de un entorno de simulación completo utilizando GNS3 y VMware Workstation.
 
----
-
 ## 🧰 Tecnologías Utilizadas
 
 - 🖧 GNS3 (Simulador de red)
@@ -18,8 +16,6 @@ Familiarizarme con la configuración de voz sobre IP (VoIP), el protocolo de enr
 - 🔁 Cisco IOS (Routers y Switches virtuales)
 - 🔄 EIGRP (Protocolo de enrutamiento dinámico)
 - 📡 Dial Peer (Configuración de VoIP)
-
----
 
 ## 🧱 Topología
 
