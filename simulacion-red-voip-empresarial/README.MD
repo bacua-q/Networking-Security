@@ -2,7 +2,6 @@
 
 Este laboratorio simula una red empresarial distribuida en tres sucursales virtuales interconectadas mediante routers Cisco. Cada sede cuenta con una máquina virtual que utiliza **Cisco IP Communicator** para llamadas VoIP internas, configuradas mediante **Dial Peer** y el protocolo de enrutamiento **EIGRP**.
 
----
 
 ## 📌 Objetivo
 
